@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 07f276087814d8e4b914197994ed2a5c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197492
+  packageName: '[URP] Gradient Shader (Lit & Unlit)'
+  packageVersion: 1.0
+  assetPath: Assets/GradientURP/Example/Materials/GradientLit_2.mat
+  uploadId: 438717

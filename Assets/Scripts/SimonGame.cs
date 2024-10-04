@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -19,9 +20,9 @@ public class SimonGame : MonoBehaviour {
     AudioClip losingClip;
 
     [SerializeField]
-    Text gameStatus;
+    TextMeshProUGUI gameStatus;
     [SerializeField]
-    Text currentLevelLabel;
+    TextMeshProUGUI currentLevelLabel;
 
     int currentLevel = 1;
     // If this is 0 then it's simons turn, if it's 1 then it's the players turn
