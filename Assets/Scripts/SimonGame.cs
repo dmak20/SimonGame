@@ -50,6 +50,9 @@ public class SimonGame : MonoBehaviour {
         if (turn == 0)
             simonsTurn.Add(obj.name);
 
+        //obj.buttonNumber;
+        
+
         if (turn == 1)
         {
             if (playerButtonPress == numberOfPresses - 1)
